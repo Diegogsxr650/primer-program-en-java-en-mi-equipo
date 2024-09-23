@@ -1,6 +1,6 @@
 public class Prueba {
        public static void main(String[] args) {
-           System.out.println("Tus Apellidos");
+           System.out.println("Garrido Sánchez");
+	
        }
    }
-
